@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://GANTI-USERNAME.github.io/sitemap.xml
+Sitemap: https://mitrausahateknik/sitemap.xml
